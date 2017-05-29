@@ -1,0 +1,15 @@
+{
+  "name": "accountability",
+  "version": "1.0.0",
+  "description": "For tweeting companies about delays",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "@shaundon",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^1.28.5",
+    "twitter": "^1.7.0"
+  }
+}

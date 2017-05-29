@@ -1,0 +1,46 @@
+{
+  "twitter": {
+    "user_to_tweet": "@PeabodyLDN",
+    "credentials": {
+      "consumer_key": "",
+      "consumer_secret": "",
+      "access_token_key": "",
+      "access_token_secret": ""
+    }
+  },
+  "start_date": "2017-03-14",
+  "phrases-one": [
+    "trying to get a memo of sale out.",
+    "of attempting to sell our flat.",
+    "trying to get our sale started.",
+    "and still no memo of sale."
+  ],
+  "phrases-two": [
+    "Ridiculous.",
+    "No accountability.",
+    "Worst service ever.",
+    "Help help help.",
+    "No one helps.",
+    "Incompetence abounds.",
+    "Laughable.",
+    "Incompetence.",
+    "Sheer incompetence.",
+    "I have no alternative.",
+    "Wish I could use another company.",
+    "The pain.",
+    "Have toe on trigger.",
+    "Most incompetent.",
+    "Might be a prank?",
+    "Worst joke ever.",
+    "Most useless ever.",
+    "Complaints did nothing."
+  ],
+  "hashtags": [
+    "peabody",
+    "worstcustomerservice",
+    "peabodydontcare",
+    "sharedownership",
+    "ohgodwhy",
+    "worsethantrump"
+  ]
+}
