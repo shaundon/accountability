@@ -35,5 +35,5 @@ npm start
 Add this to your Crontab (adjust the schedule to suit you).
 
 ```
-* * * * * /usr/bin/npm start --prefix ~/path/to/repo
+* * * * * /usr/bin/npm start --prefix ~/path/to/repo >> ~/path/to/repo/tweet.log 2>&1
 ```
